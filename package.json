@@ -1,0 +1,22 @@
+{
+  "name": "commonpdf_podofo",
+  "version": "0.0.0",
+  "description": "Centos 7 build of PoDoFo for CommonPdf bin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corymickelson/CommonPdf_PoDoFo.git"
+  },
+  "keywords": [
+    "CommonPdf"
+  ],
+  "author": "Cory Mickelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corymickelson/CommonPdf_PoDoFo/issues"
+  },
+  "homepage": "https://github.com/corymickelson/CommonPdf_PoDoFo#readme"
+}
