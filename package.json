@@ -1,6 +1,6 @@
 {
   "name": "commonpdf_podofo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Centos 7 build of PoDoFo for CommonPdf bin",
   "main": "index.js",
   "scripts": {
